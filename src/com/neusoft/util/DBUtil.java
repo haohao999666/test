@@ -1,4 +1,4 @@
-package com.company.util;
+package com.neusoft.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
